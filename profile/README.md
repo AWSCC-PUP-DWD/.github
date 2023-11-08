@@ -4,10 +4,10 @@ The **AWS Cloud Club - DSWD** is dedicated to foster a student-centered learning
 
 ---
 
-### Sub-Departments
+#### Sub-Departments
 
-💻 - **Front-end Sub-Department**
+💻 - **Front-end**
 
-⚙️ - **Back-end Sub-Department**
+⚙️ - **Back-end**
 
-✨ - **UI/UX Sub-Department**
+✨ - **UI/UX**
